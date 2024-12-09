@@ -3,6 +3,7 @@ I'm a third-year Computer Science student at Lublin University of Technology, de
 <!---<p align="left"> <img src="https://komarev.com/ghpvc/?username=jakubdziem&label=Profile%20views&color=0e75b6&style=flat" alt="jakubdziem"> </p> --->
 - 🔭 I’m currently working on the server-side development for the <a href = "https://play.google.com/store/apps/details?id=com.adamdawi.higherorlower">Higher or Lower</a> app, now available on Google Play!
 - 🌱 I’m currently learning Spring
+- 🎩 I’m currently taking the Red Hat OpenShift Administration I: Operating a Production Cluster 4.14 course
 - 📫 How to reach me: jakub.dziem9@gmail.com
 <h3 align="left">🛠 Languages and Tools:</h3>
 <p align="center">
