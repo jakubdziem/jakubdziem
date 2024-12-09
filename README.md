@@ -1,8 +1,8 @@
 ### Hi there 👋
 I'm a third-year Computer Science student at Lublin University of Technology, delving into the fascinating world of Java programming. My journey into the realm of software development began with a curiosity for crafting applications, and I've found my niche in building apps using the Spring framework. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 <!---<p align="left"> <img src="https://komarev.com/ghpvc/?username=jakubdziem&label=Profile%20views&color=0e75b6&style=flat" alt="jakubdziem"> </p> --->
-- 🔭 I’m currently working on java web apps <br>
-- 🌱 I’m currently learning spring <br>
+- 🔭 I’m currently working on the server-side development for the <a href = "https://play.google.com/store/apps/details?id=com.adamdawi.higherorlower">Higher or Lower</a> app, now available on Google Play!
+- 🌱 I’m currently learning Spring
 - 📫 How to reach me: jakub.dziem9@gmail.com
 <h3 align="left">🛠 Languages and Tools:</h3>
 <p align="center">
