@@ -16,6 +16,7 @@ I'm a third-year Computer Science student at Lublin University of Technology, de
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
 </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href = "https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://github.com/jakubdziem/jakubdziem/assets/106815549/cfee8250-dc92-4241-868d-e26b29be8dae" alt = "spring" width="40" height="40"/> </a>
 <a href = "https://www.jetbrains.com/idea" target="_blank" rel="noreferrer"> <img src="https://github.com/jakubdziem/jakubdziem/assets/106815549/ff52e148-b6a8-4c46-b0f1-d3aaea66c38d" alt = "intelij" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -28,9 +29,7 @@ I'm a third-year Computer Science student at Lublin University of Technology, de
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
 </a>
-
-
-
+<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="maven" width="40" height="40"/> </a>
 </p>
 
 
