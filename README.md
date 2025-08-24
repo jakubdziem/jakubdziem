@@ -4,7 +4,6 @@ I'm a third-year Computer Science student at Lublin University of Technology, de
 - 🔭 I’m currently working on the server-side development for the <a href = "https://play.google.com/store/apps/details?id=com.adamdawi.higherorlower">Higher or Lower</a> app, now available on Google Play!
 - 🌱 I’m currently learning Spring
 - 🎩 I’m currently taking the Red Hat OpenShift Administration I: Operating a Production Cluster 4.14 course
-- 📫 How to reach me: jakub.dziem9@gmail.com
 <h3 align="left">🛠 Languages and Tools:</h3>
 <p align="center">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
